@@ -1,0 +1,9 @@
+<?php
+
+	// Database connectivity
+	$databaseHost = "radspot.db.7642516.hostedresource.com";
+	$databaseUser = "radspot";
+	$databasePass = "gR=3vT++";
+	$databaseName = "radspot";
+
+?>
