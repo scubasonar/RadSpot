@@ -1,0 +1,10 @@
+RadSpot v1.0 Components
+
+* sketch
+Arduino sketch for reading GPS sensor and Geiger event data
+
+* web
+Web site for storing & displaying data in real-time
+
+* collector
+Java application for relaying sensor data to database
